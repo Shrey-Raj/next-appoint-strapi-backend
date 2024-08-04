@@ -15,5 +15,7 @@ DATABASE_PASSWORD: edn3y8TldGNG9q0VTTOzpzdqKLtTBlDe
 
 Images in strapi, were not previewing, see the *middleware.js*
 
+//------------------------------------------------------------------------------------------
 
-
+goto : ```https://next-appoint-strapi-backend.onrender.com/admin/auth/login```
+use "temp" account 
